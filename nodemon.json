@@ -1,0 +1,12 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "scaler",
+        "JWT_KEY": "xirtS",
+        "CLOUD_NAME": "strix-digital",
+        "CLOUD_KEY": "576127676785571",
+        "CLOUD_SECRET": "aLySilv69kgAZPTDzboyAraiKGQ",
+        "MAIL_HOST": "smtp.hostinger.com",
+        "MAIL_USERNAME": "contact@strixdigital.in",
+        "MAIL_PASS": "Quinkpost@2020"
+    }
+}
